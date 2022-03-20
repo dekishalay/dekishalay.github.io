@@ -2826,7 +2826,7 @@ input, select, textarea {
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed;						fixed;
-			background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("images/PGIR_Novae.png") no-repeat center center fixed;
+			background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url("images/PGIR_Novae.png") no-repeat center center fixed;
 			background-size: cover;
 			height: 100%;
 			overflow: hidden;
@@ -2919,8 +2919,7 @@ input, select, textarea {
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)) , var(--image-url) center center;
-		background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url("images/PGIR_Novae.png") no-repeat center center fixed;
+		background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url("images/PGIR_Novae.png") no-repeat center center fixed;
 		background-size: cover;
 		height: 100%;
 		overflow: hidden;
