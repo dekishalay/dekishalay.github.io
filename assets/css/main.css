@@ -2825,9 +2825,11 @@ input, select, textarea {
 		.main.style2 {
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
-			background-attachment: fixed,							fixed;
-			background-image: url("images/PGIR_Novae.png"), url("../../images/header.jpg");
-			background-size: auto,							cover;
+			background-attachment: fixed;						fixed;
+			background: url("images/PGIR_Novae.png") no-repeat center center fixed;
+			background-size: cover;
+			height: 100%;
+			overflow: hidden;
 		}
 
 			.main.style2 a {
