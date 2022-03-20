@@ -2919,9 +2919,9 @@ input, select, textarea {
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/PGIR_Novae.png");
-		background-position: top left,						center center,					center center;
-		background-size: auto,							cover,							cover;
+		background: url("images/PGIR_Novae.png") no-repeat center center fixed;
+		background-size: cover;
+		height: 100%;
 		overflow: hidden;
 		position: relative;
 		text-align: center;
