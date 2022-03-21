@@ -3119,6 +3119,7 @@ input, select, textarea {
 		background-size: cover;
 		height: 100%;
 		overflow: hidden;
+		text-align: center;
 	}
 
 		#footer a {
